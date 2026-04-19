@@ -2,7 +2,7 @@
 
 From-scratch implementation of a two-layer fully connected neural network in PyTorch, developed without the use of automatic differentiation or `nn.Module`. All gradients are derived analytically and computed explicitly through manual backpropagation, following the formulations presented in [`docs/report.pdf`](docs/report.pdf).
 
-Developed as part of the *Optimization in Machine Learning* course at Shanghai Jiao Tong University (exchange, 2026).
+Developed as part of the *Optimisation in Machine Learning* course at Shanghai Jiao Tong University (exchange, 2026).
 
 ---
 
