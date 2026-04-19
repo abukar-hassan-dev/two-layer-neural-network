@@ -55,7 +55,7 @@ two-layer-neural-network/
 │   └── run_training.py  # Entry point — edit CONFIG here
 ├── docs/
 │   └── report.pdf       # Full derivation: forward pass, backprop, dropout
-├── figures/             # Auto-generated plots (not tracked)
+├── figures/             # Auto-generated plots 
 ├── checkpoints/         # Saved model weights (not tracked)
 ├── data/                # Dataset files (not tracked — see below)
 ├── requirements.txt
