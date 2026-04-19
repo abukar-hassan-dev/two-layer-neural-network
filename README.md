@@ -1,6 +1,6 @@
 # Two-Layer Fully Connected Neural Network
 
-From-scratch implementation of a two-layer fully connected network in PyTorch — no autograd, no `nn.Module`. Every gradient is derived analytically and computed explicitly, following the backpropagation equations in [`docs/report.pdf`](docs/report.pdf).
+From-scratch implementation of a two-layer fully connected neural network in PyTorch, developed without the use of automatic differentiation or `nn.Module`. All gradients are derived analytically and computed explicitly through manual backpropagation, following the formulations presented in [`docs/report.pdf`](docs/report.pdf).
 
 Developed as part of the *Optimization in Machine Learning* course at Shanghai Jiao Tong University (exchange, 2026).
 
